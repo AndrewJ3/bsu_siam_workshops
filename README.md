@@ -1,1 +1,1 @@
-# bsu_siam_workshops
+# boise state university siam workshops
